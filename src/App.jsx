@@ -35,7 +35,7 @@ function App() {
           </button>
         </p>
         <p>
-          React + Vite!
+          React + Vite
         </p>
       </header>
     </div>
